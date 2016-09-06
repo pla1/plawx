@@ -1,0 +1,14 @@
+{
+    "description": "Temperature gauge on top of Google Maps.",
+    "framework": "ubuntu-sdk-14.10-html",
+    "hooks": {
+        "plawx": {
+            "apparmor": "plawx.json",
+            "desktop": "plawx.desktop"
+        }
+    },
+    "maintainer": "Patrick L Archibald (PLA) <Patrick.Archibald@gmail.com>",
+    "name": "plawx.pla",
+    "title": "Temperature Gauge Google Map",
+    "version": "0.4"
+}

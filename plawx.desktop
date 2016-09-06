@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Temperature Gauge Google Map
+Comment=Temperature gauge on top of Google Maps
+Exec=webapp-container --webappUrlPatterns=https://plawx.com/* https://plawx.com
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+Icon=./TemperatureGaugeOnGoogleMap.png
